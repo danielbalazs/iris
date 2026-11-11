@@ -5,5 +5,14 @@
     <link>https://github.com/danielbalazs/iris</link>
     <description>Iris updates</description>
     <language>en</language>
+    <item>
+      <title>Iris 0.1</title>
+      <pubDate>Wed, 11 Nov 2026 09:36:30 GMT</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First public preview of Iris: a liquid-glass color picker for the menu bar. Scroll to zoom, click to copy the HEX value.</p>]]></description>
+      <enclosure url="https://github.com/danielbalazs/iris/releases/download/v0.1/Iris.zip" type="application/octet-stream" sparkle:edSignature="dQoWtV0RqT7eBMMgvPpWJuXa/ZUaPGDYl/j9LjjQaQ93EPo/Nqu1R9NsIIRxEy9HVGpOrU1vXZ07H3EEqsuyCg==" length="2346183" />
+    </item>
   </channel>
 </rss>
