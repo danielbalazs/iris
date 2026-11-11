@@ -6,6 +6,15 @@
     <description>Iris updates</description>
     <language>en</language>
     <item>
+      <title>Iris 0.2</title>
+      <pubDate>Wed, 11 Nov 2026 11:59:11 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New app icon: a liquid glass sphere.</p>]]></description>
+      <enclosure url="https://github.com/danielbalazs/iris/releases/download/v0.2/Iris.zip" type="application/octet-stream" sparkle:edSignature="genjGiLceO5L7HKti2bP1MBlW7cGxDHGw02/VRY65ufiuz5VpmauAHBSdwvdEP+qCunmY05mUDMLzJNVaU6HBA==" length="1919387" />
+    </item>
+    <item>
       <title>Iris 0.1</title>
       <pubDate>Wed, 11 Nov 2026 09:36:30 GMT</pubDate>
       <sparkle:version>1</sparkle:version>
