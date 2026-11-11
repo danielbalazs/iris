@@ -6,6 +6,15 @@
     <description>Iris updates</description>
     <language>en</language>
     <item>
+      <title>Iris 0.3</title>
+      <pubDate>Wed, 11 Nov 2026 12:59:00 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New: History. Right-click the menu bar icon to see your last 10 colors and copy any of them again.</p>]]></description>
+      <enclosure url="https://github.com/danielbalazs/iris/releases/download/v0.3/Iris.zip" type="application/octet-stream" sparkle:edSignature="z4TiW7SsthMR53L+3TASaI8kQqYm1W9f3WUrunwxaoJAdtu0YQ+gW1Dv7hDRyq9EdmXBI13GuxyEurc15C48Bw==" length="1930717" />
+    </item>
+    <item>
       <title>Iris 0.2</title>
       <pubDate>Wed, 11 Nov 2026 11:59:11 GMT</pubDate>
       <sparkle:version>2</sparkle:version>
