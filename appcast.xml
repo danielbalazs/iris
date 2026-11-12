@@ -6,6 +6,15 @@
     <description>Iris updates</description>
     <language>en</language>
     <item>
+      <title>Iris 0.5</title>
+      <pubDate>Thu, 12 Nov 2026 13:36:10 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Smoother lens that follows the cursor without lag. Now signed and notarized by Apple, so it opens without the security warning.</p>]]></description>
+      <enclosure url="https://github.com/danielbalazs/iris/releases/download/v0.5/Iris.zip" type="application/octet-stream" sparkle:edSignature="aI0MkNOMM9SwBbZkZmsfQBNzn3yUO7ghvAZt1Z7ONVUD9JVl+GVl7B+LML5T91LpwEzuFOBbPM9xhPxOwvJoCw==" length="1892603" />
+    </item>
+    <item>
       <title>Iris 0.4</title>
       <pubDate>Wed, 11 Nov 2026 13:31:30 GMT</pubDate>
       <sparkle:version>4</sparkle:version>
